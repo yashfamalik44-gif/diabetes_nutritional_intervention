@@ -1,0 +1,11 @@
+Patient_ID,Baseline_HbA1c,Intervention_Type,Weeks_on_Diet,Avg_Daily_Carbs_g,Post_Intervention_HbA1c,Medication_Reduced
+401,8.5,Low-Glycemic,12,120,7.1,Yes
+402,7.9,Standard-Control,12,250,7.8,No
+403,9.2,Low-Glycemic,12,100,7.5,Yes
+404,8.1,Standard-Control,12,240,8.0,No
+405,7.6,Low-Glycemic,12,130,6.8,Yes
+406,8.8,Keto,12,40,7.0,Yes
+407,7.4,Standard-Control,12,260,7.5,No
+408,9.5,Keto,12,35,7.2,Yes
+409,8.0,Low-Glycemic,12,110,6.9,Yes
+410,8.3,Standard-Control,12,220,8.2,No
